@@ -1,0 +1,8 @@
+print(sum(range(5)))
+print(round(23.94654649))
+print(round(3.1458999,2))
+print(pow(2,5))
+print(divmod(21,5))
+print(bin(11))
+print(ord('A'))
+print(chr(98))
